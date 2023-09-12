@@ -3,7 +3,6 @@ def greeting_payment(greeting=''):
     greeting = greeting.lower().strip()
 
     # Find occurence of hello
-    # if greeting.startswith('hello'):
     if greeting.startswith('hello'):
         return 0
 
