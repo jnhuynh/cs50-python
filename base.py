@@ -1,5 +1,7 @@
 def main():
-    return 0
+    # Prompt
+    input_string = input('? ')
 
 
-main()
+if __name__ == "__main__":
+    main()
