@@ -20,5 +20,5 @@ def main():
     do_something(input_string)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
